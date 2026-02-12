@@ -12,8 +12,5 @@
     "ai",
     "development",
     "skills"
-  ],
-  "skills": {
-    "autoDiscover": true
-  }
+  ]
 }
