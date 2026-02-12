@@ -1,0 +1,19 @@
+{
+  "name": "claude-plugin",
+  "version": "0.1.0",
+  "description": "AI-powered development skills including hierarchical code review summaries",
+  "author": {
+    "name": "Your Name"
+  },
+  "repository": "https://github.com/ntwilson/claude-plugin",
+  "license": "CC0",
+  "keywords": [
+    "code-review",
+    "ai",
+    "development",
+    "skills"
+  ],
+  "skills": {
+    "autoDiscover": true
+  }
+}
